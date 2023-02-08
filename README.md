@@ -1,2 +1,0 @@
-# bingo-game-web-verion
- 
